@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+phase4_checkpoints/
+tb_logs/
+*.pth
+*.pt
+*.csv
+*.png
+.DS_Store
